@@ -1,0 +1,36 @@
+[1/300000] Train loss: 173.33846, Valid loss: 80.15134, Elapsed_time: 1.41408
+Current_accuracy : 0.000, Current_norm_ED  : 0.00
+Best_accuracy    : 0.000, Best_norm_ED     : 0.00
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+                          | zkba8v1                   | 0.0000	False
+                          | i1h1i4id1z                | 0.0000	False
+                          | n0wrwwz1zd                | 0.0000	False
+                          | zknj11                    | 0.0000	False
+                          | z1b906jl1                 | 0.0000	False
+--------------------------------------------------------------------------------
+[1/300000] Train loss: 173.33846, Valid loss: 80.15134, Elapsed_time: 1.30668
+Current_accuracy : 0.000, Current_norm_ED  : 0.00
+Best_accuracy    : 0.000, Best_norm_ED     : 0.00
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+                          | zkba8v1                   | 0.0000	False
+                          | i1h1i4id1z                | 0.0000	False
+                          | n0wrwwz1zd                | 0.0000	False
+                          | zknj11                    | 0.0000	False
+                          | z1b906jl1                 | 0.0000	False
+--------------------------------------------------------------------------------
+[1/300000] Train loss: 173.33846, Valid loss: 80.15134, Elapsed_time: 1.07063
+Current_accuracy : 0.000, Current_norm_ED  : 0.00
+Best_accuracy    : 0.000, Best_norm_ED     : 0.00
+--------------------------------------------------------------------------------
+Ground Truth              | Prediction                | Confidence Score & T/F
+--------------------------------------------------------------------------------
+                          | zkba8v1                   | 0.0000	False
+                          | i1h1i4id1z                | 0.0000	False
+                          | n0wrwwz1zd                | 0.0000	False
+                          | zknj11                    | 0.0000	False
+                          | z1b906jl1                 | 0.0000	False
+--------------------------------------------------------------------------------
